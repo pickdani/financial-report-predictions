@@ -7,9 +7,9 @@ Examines the potential use of linguistic features of financial report text to pr
  - *word count*
  - *char count*
  - *sentence count*
- - *common words*
+ - *common word count*
  - *words / sentence*
- - *char / sentence*
+ - *chars / sentence*
  - *word change*
  - *negative sentiment*
  - *positive sentiment*
