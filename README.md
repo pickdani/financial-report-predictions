@@ -22,5 +22,6 @@ Examines the potential use of linguistic features of financial report text to pr
 (Resulting percentage change of stocks price looking ahead at the next report of matching ticker.)
 
 
-View notebook: https://nbviewer.jupyter.org/github/pickdani/sec-stock-predicting/blob/main/sec-stock-predicting.ipynb
+View notebook: 
 
+https://nbviewer.jupyter.org/github/pickdani/sec-stock-predicting/blob/main/sec-stock-predicting.ipynb
