@@ -1,4 +1,4 @@
-# sec-stock-predicting
+# Financial Report Prediction / DS Analysis
 
 Examines the potential use of linguistic features of financial report text to predict stock price movement using various sklearn classification models.
 
